@@ -3,7 +3,11 @@
 
 # SmartMCDX + RSI Zones Script
 
-## 💰[Support me](https://mfinitydev.com/support) ⭐ Give my repo a  star on GitHub!
+- This indicator is based on personal experience and experimentation, and does not guarantee 100% accuracy. I'm sharing it to provide investors with statistical data and analytical guidance for stocks.
+
+- 💰[Support me](https://mfinitydev.com/support) ⭐ Give my repo a  star on GitHub!
+
+
 
 ## ⚡Installation
 
