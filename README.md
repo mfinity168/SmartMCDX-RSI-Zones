@@ -3,11 +3,9 @@
 
 # SmartMCDX + RSI Zones Script
 
-- This indicator is based on personal experience and experimentation, and does not guarantee 100% accuracy. I'm sharing it to provide investors with statistical data and analytical guidance for stocks.
+- This indicator is based on personal experience and experimentation, and does not guarantee 100% accuracy. I'm sharing it to provide investors with statistical data and analytical guidance for stocks. [Read more](https://mfinitydev.com/knowledge-hub/blog/2025/tradingview-indicator-script)
 
-- 💰[Support me](https://mfinitydev.com/support) ⭐ Give my repo a  star on GitHub!
-
-
+- 💰[Support me](https://mfinitydev.com/support) and Give my repo a ⭐star on GitHub!
 
 ## ⚡Installation
 
